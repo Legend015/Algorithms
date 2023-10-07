@@ -1,1 +1,3 @@
 # CPP_algorithms
+Happy to see you here........
+Try to make optimal solution for a problem..
